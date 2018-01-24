@@ -19,7 +19,7 @@ Windows 10 IoT Core is a version of Windows 10 that is optimized for smaller dev
 To get started with Windows 10 IoT Core, we've created a [Get Started walkthrough](https://developer.microsoft.com/en-us/windows/iot/GetStarted.htm) for [prototyping](https://developer.microsoft.com/en-us/windows/iot/getstarted/prototype/selectdevice) and [commercializing](https://developer.microsoft.com/en-us/windows/iot/getstarted/commercialize/selectplatform) devices that leverage Windows 10 IoT Core.
 
 ## Differences between Windows 10 IoT Core and Windows 10 IoT Enterprise
-While Windows 10 IoT Core and Windows 10 IoT Enterprise are similar in name, there are differences in what they offer as well as what they support. Below is a feature list that highlights edition differences.
+There are differences in what Windows 10 IoT Core and Windows 10 IoT Enterprise offer and what they support. Below is a feature list that highlights edition differences.
 
 For minimum requirement details, please visit [the Windows Hardware site](https://docs.microsoft.com/en-us/windows-hardware/design/minimum/minimum-hardware-requirements-overview).
 
