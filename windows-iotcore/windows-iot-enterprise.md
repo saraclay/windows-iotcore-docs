@@ -18,7 +18,7 @@ Before reaching out to an Embedded/IoT Distributor, we recommend working with on
 
 In order to start your journey in manufacturing with Windows 10 IoT Enterprise, you will need to reach out to a distributor from [this list](http://wincom.blob.core.windows.net/documents/Windows_IoT_Distributor_Information.pdf). 
 
-## Fixed purpose devices 
+### Fixed purpose devices 
 
 > [!TIP]
 > See your licensing agreement for complete guidance on all Windows 10 IoT Enterprise usage scenarios.
@@ -32,7 +32,7 @@ In general a fixed purpose device differs from a general purpose device in the f
 * The OEM licenses the device to the user with the software attached to the device as a complete product and passes through specific Windows terms in their own agreements.
 
 ## Differences between Windows 10 IoT Core and Windows 10 IoT Enterprise
-While Windows 10 IoT Core and Windows 10 IoT Enterprise are similar in name, there are differences in what they offer as well as what they support. Below is a feature list that highlights edition differences.
+There are differences in what Windows 10 IoT Core and Windows 10 IoT Enterprise offer and what they support. Below is a feature list that highlights edition differences.
 
 For minimum requirement details, please visit [the Windows Hardware site](https://docs.microsoft.com/en-us/windows-hardware/design/minimum/minimum-hardware-requirements-overview).
 
